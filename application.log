@@ -1,0 +1,14 @@
+2020-05-06 17:44:52,077  INFO [main] LoginTest:36 - Launching chrome browser
+2020-05-06 17:44:56,040  INFO [main] LoginTest:42 - entering application url
+2020-05-06 17:44:56,051  INFO [main] LoginTest:50 - *****************************Starting test case**********************************************
+2020-05-06 17:44:56,052  INFO [main] LoginTest:51 - *****************************freeCrmTitleTest**********************************************
+2020-05-06 17:44:56,394  INFO [main] LoginTest:56 - *****************************Ending test case**********************************************
+2020-05-06 17:44:56,394  INFO [main] LoginTest:57 - *****************************freeCrmTitleTest**********************************************
+2020-05-06 17:44:57,135  INFO [main] LoginTest:75 - closing the browser
+2020-05-06 17:44:59,645  INFO [main] LoginTest:36 - Launching chrome browser
+2020-05-06 17:45:03,187  INFO [main] LoginTest:42 - entering application url
+2020-05-06 17:45:03,190  INFO [main] LoginTest:62 - *****************************Starting test case**********************************************
+2020-05-06 17:45:03,190  INFO [main] LoginTest:63 - *****************************freeCrmSignUpLinkTest**********************************************
+2020-05-06 17:45:03,694  INFO [main] LoginTest:68 - *****************************Ending test case**********************************************
+2020-05-06 17:45:03,694  INFO [main] LoginTest:69 - *****************************freeCrmSignUpLinkTest**********************************************
+2020-05-06 17:45:04,486  INFO [main] LoginTest:75 - closing the browser
